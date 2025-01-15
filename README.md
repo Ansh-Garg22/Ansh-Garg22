@@ -1,4 +1,3 @@
-[![MasterHead](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1736145891~exp=1736149491~hmac=94cc39e50290a949b41e40abbd469cc601be4ef8caf8fd9a115e1374d5222875&w=826)](https://github.com/Ansh-Garg22)
 <h1 align="center">Hi 👋, I'm Ansh Garg</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg">
