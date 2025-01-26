@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **gargansh247@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I enjoy building and inventing cool stuff! Always exploring new ideas and technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
