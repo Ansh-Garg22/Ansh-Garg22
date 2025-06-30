@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh-garg22&label=Profile%20views&color=0e75b6&style=flat" alt="ansh-garg22" /> </p>
 
-- 🌱 I’m currently learning **React Native , Typescript etc.**
+- 🌱 I’m currently learning **React Native , Typescript, MCP/Agentic AI etc.**
 
-- 💬 Ask me about **React , Nodejs , MERN Stack**
+- 💬 Ask me about **React , Nodejs , MERN Stack, Agentic AI, RAG Systems**
 
 - 📫 How to reach me **gargansh247@gmail.com**
 
